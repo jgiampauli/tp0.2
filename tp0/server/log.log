@@ -1,0 +1,15 @@
+[INFO] 18:00:29:857 Servidor/(158494:158494): Servidor listo para recibir al cliente
+[INFO] 18:20:25:639 Servidor/(159585:159585): Servidor listo para recibir al cliente
+[INFO] 18:20:45:769 Servidor/(159721:159721): Servidor listo para recibir al cliente
+[INFO] 18:21:13:677 Servidor/(159721:159721): Se conecto un cliente!
+[INFO] 18:21:13:677 Servidor/(159721:159721): Me llego el mensaje valor
+[ERROR] 18:21:13:677 Servidor/(159721:159721): el cliente se desconecto. Terminando servidor
+[INFO] 18:45:08:851 Servidor/(160637:160637): Servidor listo para recibir al cliente
+[INFO] 18:45:21:536 Servidor/(160637:160637): Se conecto un cliente!
+[INFO] 18:45:21:536 Servidor/(160637:160637): Me llego el mensaje valor
+[INFO] 18:45:36:232 Servidor/(160637:160637): Me llegaron los siguientes valores:
+
+[INFO] 18:45:36:232 Servidor/(160637:160637): yo soy
+[INFO] 18:45:36:233 Servidor/(160637:160637): pepe itaca
+[INFO] 18:45:36:233 Servidor/(160637:160637): el 38
+[ERROR] 18:45:36:233 Servidor/(160637:160637): el cliente se desconecto. Terminando servidor

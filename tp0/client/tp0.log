@@ -1,0 +1,84 @@
+[INFO] 15:47:28:252 logger/(55916:55916): Soy un log
+[INFO] 15:47:28:252 logger/(55916:55916): ых
+[INFO] 15:47:44:552 logger/(67236:67236): Soy un log
+[INFO] 15:47:44:552 logger/(67236:67236): (null)
+[INFO] 16:57:40:972 logger/(154311:154311): Soy un log
+[INFO] 16:57:40:972 logger/(154311:154311): (null)
+[INFO] 17:03:07:973 logger/(154489:154489): Soy un log
+[INFO] 17:03:07:973 logger/(154489:154489): CLAVE de la config: valor
+[INFO] 17:09:45:811 logger/(154712:154712): Soy un log
+[INFO] 17:09:45:811 logger/(154712:154712): VALOR de la config: valor
+[INFO] 17:10:08:865 logger/(154912:154912): Soy un log
+[INFO] 17:10:08:865 logger/(154912:154912): VALOR de la config: valor
+[INFO] 17:10:58:521 logger/(155084:155084): Soy un log
+[INFO] 17:10:58:521 logger/(155084:155084): VALOR de la config: valor
+[INFO] 17:25:15:701 logger/(155436:155436): Soy un log
+[INFO] 17:25:15:701 logger/(155436:155436): VALOR de la config: valor
+[INFO] 17:27:26:852 logger/(155560:155560): Soy un log
+[INFO] 17:27:26:853 logger/(155560:155560): VALOR de la config: valor
+[INFO] 17:28:59:994 logger/(155707:155707): Soy un log
+[INFO] 17:28:59:994 logger/(155707:155707): VALOR de la config: valor
+[INFO] 17:31:31:522 logger/(156194:156194): Soy un log
+[INFO] 17:31:31:522 logger/(156194:156194): VALOR de la config: valor
+[INFO] 17:31:35:447 logger/(156194:156194): > sadsadad
+[INFO] 17:31:36:422 logger/(156194:156194): > sadasd
+[INFO] 17:31:36:959 logger/(156194:156194): > 
+[INFO] 17:32:45:028 logger/(156359:156359): Soy un log
+[INFO] 17:32:45:028 logger/(156359:156359): VALOR de la config: valor
+[INFO] 17:32:49:368 logger/(156359:156359): > asdsa
+[INFO] 17:32:50:127 logger/(156359:156359): > sadad
+[INFO] 17:32:50:847 logger/(156359:156359): > asda
+[INFO] 17:32:51:344 logger/(156359:156359): > 
+[INFO] 17:32:59:472 logger/(156479:156479): Soy un log
+[INFO] 17:32:59:472 logger/(156479:156479): VALOR de la config: valor
+[INFO] 17:33:04:888 logger/(156479:156479): > 123123
+[INFO] 17:33:05:784 logger/(156479:156479): > 123213
+[INFO] 17:33:05:848 logger/(156479:156479): > 
+[INFO] 17:33:12:530 logger/(156600:156600): Soy un log
+[INFO] 17:33:12:530 logger/(156600:156600): VALOR de la config: valor
+[INFO] 17:33:17:696 logger/(156600:156600): > 123213
+[INFO] 17:33:18:800 logger/(156600:156600): > 123213
+[INFO] 17:33:19:720 logger/(156600:156600): > 123123
+[INFO] 17:33:20:528 logger/(156600:156600): > 
+[INFO] 17:34:01:273 logger/(156827:156827): Soy un log
+[INFO] 17:34:01:274 logger/(156827:156827): VALOR de la config: valor
+[INFO] 17:34:02:632 logger/(156827:156827): > 123123
+[INFO] 17:34:03:337 logger/(156827:156827): > 123132132
+[INFO] 17:34:04:017 logger/(156827:156827): > 123132
+[INFO] 17:34:04:424 logger/(156827:156827): > 
+[INFO] 17:35:42:932 logger/(156951:156951): Soy un log
+[INFO] 17:35:42:932 logger/(156951:156951): VALOR de la config: valor
+[INFO] 17:35:44:921 logger/(156951:156951): > 213213
+[INFO] 17:35:45:705 logger/(156951:156951): > 213123213
+[INFO] 17:35:46:466 logger/(156951:156951): > 123123132
+[INFO] 17:35:47:121 logger/(156951:156951): > 123132132
+[INFO] 17:35:47:793 logger/(156951:156951): > 321312132
+[INFO] 17:35:48:555 logger/(156951:156951): > 321321321
+[INFO] 17:35:49:386 logger/(156951:156951): > 312321312312
+[INFO] 17:35:50:098 logger/(156951:156951): > 123123312
+[INFO] 17:35:50:914 logger/(156951:156951): > 312123213312
+[INFO] 17:35:51:673 logger/(156951:156951): > 213213312312
+[INFO] 17:35:52:378 logger/(156951:156951): > sdasd
+[INFO] 17:35:53:178 logger/(156951:156951): > asdasda
+[INFO] 17:35:54:074 logger/(156951:156951): > asdasdas
+[INFO] 17:35:54:906 logger/(156951:156951): > asdasdasd
+[INFO] 17:35:55:314 logger/(156951:156951): > 
+[INFO] 17:38:44:134 logger/(157061:157061): Soy un log
+[INFO] 17:38:44:135 logger/(157061:157061): VALOR de la config: valor
+[INFO] 17:38:45:684 logger/(157061:157061): > 0
+[INFO] 17:38:46:732 logger/(157061:157061): > 0
+[INFO] 17:38:47:356 logger/(157061:157061): > 0
+[INFO] 17:38:48:859 logger/(157061:157061): > 00000000
+[INFO] 17:38:49:276 logger/(157061:157061): > 
+[INFO] 18:21:08:673 logger/(159876:159876): Soy un log
+[INFO] 18:21:08:674 logger/(159876:159876): VALOR de la config: valor
+[INFO] 18:21:13:093 logger/(159876:159876): > sadasd
+[INFO] 18:21:13:301 logger/(159876:159876): > sa
+[INFO] 18:21:13:516 logger/(159876:159876): > das
+[INFO] 18:21:13:677 logger/(159876:159876): > 
+[INFO] 18:44:56:562 logger/(160518:160518): Soy un log
+[INFO] 18:44:56:562 logger/(160518:160518): VALOR de la config: valor
+[INFO] 18:45:16:520 logger/(160518:160518): > pepe
+[INFO] 18:45:18:144 logger/(160518:160518): > itaca
+[INFO] 18:45:19:528 logger/(160518:160518): > 38
+[INFO] 18:45:21:536 logger/(160518:160518): > 
